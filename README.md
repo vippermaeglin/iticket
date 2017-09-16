@@ -31,7 +31,7 @@ Java, CouchBase noSQL, QR-Code Scan, REST Retrofit.
 
 ### Contribution guidelines ###
 
-* This a public demonstration repo, forks and contributions are private.
+* This a public demonstration, forks and contributions are in another private repository.
 
 ### Contact ###
 
