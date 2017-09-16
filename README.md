@@ -5,28 +5,28 @@ iTicket is a automation platform for festivals, pubs, food-trucks and general ev
 
 ### Platform Modules ###
 
-* iTicket-Server
+* iTicket-Server:
 Server backend with resources, REST APIs, and administrative tools.
-* iTicket-LandingPage
+* iTicket-LandingPage:
 Landing page with product details and comercial contacts.
-* iTicket-Desktop
+* iTicket-Desktop:
 Desktop application to manage tickets and transactions on client side.
-* iTicket-UserApp
+* iTicket-UserApp:
 Android/iOS mobile app to users buy tickets at establishments or events.
-* iTicket-ClientApp
+* iTicket-ClientApp:
 Google Services, REST Retrofit.
 
 ### Stacks & Frameworks ###
 
-* iTicket-Server
+* iTicket-Server:
 Java-EE, JSF, MongoDB noSQL, RestEasy, JSON, WildFly.
-* iTicket-LandingPage
+* iTicket-LandingPage:
 Java JSF, JavaScript, Html, Bootstrap e CSS.
-* iTicket-Desktop
+* iTicket-Desktop:
 Java-FX, MongoDB noSQL, QR-Code Gen, PrintManager, REST Retrofit.
-* iTicket-UserApp
+* iTicket-UserApp:
 Android/iOS mobile app to users buy tickets at establishments or events.
-* iTicket-ClientApp
+* iTicket-ClientApp:
 Java, CouchBase noSQL, QR-Code Scan, REST Retrofit.
 
 ### Contribution guidelines ###
