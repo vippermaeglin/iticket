@@ -3,7 +3,7 @@
 # iTicket #
 * [www.iticket.me](http://iticket.me)
 
-iTicket is a automation platform for festivals, pubs, food-trucks and general events that works with pre-order of products using tickets.
+iTicket is a automation platform for pubs, food-trucks and general events that works with pre-order of products using tickets.
 
 ### Platform Modules ###
 
