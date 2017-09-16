@@ -1,5 +1,5 @@
 # iTicket #
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [www.iticket.me](http://iticket.me)
 
 iTicket is a automation platform for festivals, pubs, food-trucks and general events that works with pre-order of products using tickets.
 
@@ -7,28 +7,32 @@ iTicket is a automation platform for festivals, pubs, food-trucks and general ev
 
 * iTicket-Server
 Server backend with resources, REST APIs, and administrative tools.
+* iTicket-LandingPage
+Landing page with product details and comercial contacts.
 * iTicket-Desktop
 Desktop application to manage tickets and transactions on client side.
-
-* iTicket-Desktop
-Desktop application to manage tickets and transactions on client side.
+* iTicket-UserApp
+Android/iOS mobile app to users buy tickets at establishments or events.
+* iTicket-ClientApp
+Google Services, REST Retrofit.
 
 ### Stacks & Frameworks ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* iTicket-Server
+Java-EE, JSF, MongoDB noSQL, RestEasy, JSON, WildFly.
+* iTicket-LandingPage
+Java JSF, JavaScript, Html, Bootstrap e CSS.
+* iTicket-Desktop
+Java-FX, MongoDB noSQL, QR-Code Gen, PrintManager, REST Retrofit.
+* iTicket-UserApp
+Android/iOS mobile app to users buy tickets at establishments or events.
+* iTicket-ClientApp
+Java, CouchBase noSQL, QR-Code Scan, REST Retrofit.
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* This a public demonstration repo, forks and contributions are private.
 
-### Who do I talk to? ###
+### Contact ###
 
-* Repo owner or admin
-* Other community or team contact
+* [vinicius.silva.arruda@gmail.com](mailto:vinicius.silva.arruda@gmail.com)
