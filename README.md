@@ -1,7 +1,6 @@
 <img src="https://scontent.fplu3-1.fna.fbcdn.net/v/t1.0-9/20622237_140166263241499_444801607207173636_n.png?oh=879ff45ebbca0cb5d4549db9cb775d1c&oe=5A4B178A" alt="Self-Driving Car" width="800px">
 
 # iTicket #
-
 * [www.iticket.me](http://iticket.me)
 
 iTicket is a automation platform for festivals, pubs, food-trucks and general events that works with pre-order of products using tickets.
