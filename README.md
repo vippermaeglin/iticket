@@ -35,4 +35,4 @@ Java, CouchBase noSQL, QR-Code Scan, REST Retrofit.
 
 ### Contact ###
 
-* [vinicius@iticket.me](mailto:vinicius.silva.arruda@gmail.com)
+* [vinicius@iticket.me](mailto:vinicius@iticket.me)
