@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 
- * @author Vinicius
+ * @author Vinicius on 09/12/2016.
  *
  */
 @JsonInclude(Include.NON_NULL)
