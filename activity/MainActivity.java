@@ -1,13 +1,13 @@
-package br.com.vinicius.couchbase.activity;
+package me.iticket.android.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import java.util.Date;
 
-import br.com.vinicius.couchbase.R;
-import br.com.vinicius.couchbase.dto.UserDTO;
-import br.com.vinicius.couchbase.singleton.DataHolder;
+import me.iticket.android.R;
+import me.iticket.android.dto.UserDTO;
+import me.iticket.android.singleton.DataHolder;
 
 /***
  * https://www.codexpedia.com/android/android-save-and-retrieve-object-in-couchbase-lite/
