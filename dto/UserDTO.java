@@ -9,21 +9,24 @@ import java.util.List;
  * @author Vinicius
  *
  */
+@JsonInclude(Include.NON_NULL)
 public class UserDTO extends UserSimpleDTO{
 
     // super: id, name, cpf
     private Date createdAt = null;
     private Date bornDate = null;
-	private String email = null;
-	private String cellphone = null;
-	private String facebookId = null;
-	private String gplusId = null;
-	private String gender = null;
-	private String pushDeviceToken = null;
-	private String avatar = null;
-	private String deviceType = null;
-	private Integer fidelityPoints = null;
-	private Integer dailyPoints = null;
+    private String email = null;
+    private String cellphone = null;
+    private String facebookId = null;
+    private String gplusId = null;
+    private String gender = null;
+    private String pushDeviceToken = null;
+    private String deviceType = null;
+    private Integer fidelityPoints = null;
+    @JsonIgnore
+    private String avatar = null;
+    @JsonIgnore
+    private Integer dailyPoints = null;
 
     /**
      * 
