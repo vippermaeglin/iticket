@@ -28,6 +28,10 @@ public class UserDTO{
     protected String avatar = null;
     @JsonIgnore
     protected Integer dailyPoints = null;
+    @JsonIgnore
+    protected String _id = null;
+    @JsonIgnore
+    protected String _rev = null;
 
     public String getId() {
         return id;
@@ -147,5 +151,21 @@ public class UserDTO{
 
     public void setDailyPoints(Integer dailyPoints) {
         this.dailyPoints = dailyPoints;
+    }
+
+    public String get_id() {
+        return _id;
+    }
+
+    public void set_id(String _id) {
+        this._id = _id;
+    }
+
+    public String get_rev() {
+        return _rev;
+    }
+
+    public void set_rev(String _rev) {
+        this._rev = _rev;
     }
 }
