@@ -31,6 +31,11 @@ Android/iOS mobile app to users buy tickets at establishments or events.
 * iTicket-ClientApp:
 Java, CouchBase noSQL, QR-Code Scan, REST Retrofit.
 
+### Infra ###
+
+* Server Backend provisioned on AWS with Elastic Bean Stalk hooked to Git
+* Mobile and Desktop apps manually built & deployed
+
 ### Contribution guidelines ###
 
 * This a public demonstration, forks and contributions are in another private repository.
